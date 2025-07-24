@@ -1,7 +1,6 @@
-# EchoVision
+# <p align = "center"> EchoVision: AI powered audio Conventional Neural Network </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/echovision/main/assets/Screenshot-2025-07-24-122116.png" alt="EchoVision Banner" width="100%" />
 </p>
 
 <p align="center">
